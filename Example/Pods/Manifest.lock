@@ -1,0 +1,23 @@
+PODS:
+  - QPTongdunSDK (3.1.0):
+    - WeexSDK
+  - WeexSDK (0.18.0)
+
+DEPENDENCIES:
+  - QPTongdunSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - WeexSDK
+
+EXTERNAL SOURCES:
+  QPTongdunSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QPTongdunSDK: 7ba508fc74ece0e93e2e8c9647188d5cb62d6040
+  WeexSDK: ac56f255ce9a48e93ebc2e003956ab20da33321d
+
+PODFILE CHECKSUM: a384f3b06de462995c79322d3015c5c805bad15f
+
+COCOAPODS: 1.5.2

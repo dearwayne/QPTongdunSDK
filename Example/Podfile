@@ -1,0 +1,6 @@
+use_frameworks!
+target 'QPTongdunSDK_Tests' do
+  pod 'QPTongdunSDK', :path => '../'
+  
+  
+end
