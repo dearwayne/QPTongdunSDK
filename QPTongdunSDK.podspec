@@ -20,10 +20,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-  s.homepage         = 'https://github.com/wayne/QPTongdunSDK'
+  s.homepage         = 'https://github.com/dearwayne/QPTongdunSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wayne' => '334064275@163.com' }
-  s.source           = { :git => 'https://github.com/wayne/QPTongdunSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dearwayne/QPTongdunSDK.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.source_files = 'QPTongdunSDK/*.{h,m,swift}'
   s.public_header_files = 'QPTongdunSDK/*.h'
