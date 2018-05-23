@@ -30,5 +30,5 @@ TODO: Add long description of the pod here.
   s.library = 'resolv.9'
   s.frameworks = 'UIKit'
   s.dependency 'WeexSDK'
-  s.vendored_libraries = 'QPTongdunSDK/*.a'
+  s.vendored_libraries = 'QPTongdunSDK/libFMDeviceManager_without_IDFA.a'
 end

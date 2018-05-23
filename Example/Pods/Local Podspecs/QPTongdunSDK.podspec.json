@@ -3,7 +3,7 @@
   "version": "3.1.0",
   "summary": "A short description of QPTongdunSDK.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wayne/QPTongdunSDK",
+  "homepage": "https://github.com/dearwayne/QPTongdunSDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wayne": "334064275@163.com"
   },
   "source": {
-    "git": "https://github.com/wayne/QPTongdunSDK.git",
+    "git": "https://github.com/dearwayne/QPTongdunSDK.git",
     "tag": "3.1.0"
   },
   "platforms": {
@@ -27,5 +27,5 @@
 
     ]
   },
-  "vendored_libraries": "QPTongdunSDK/*.a"
+  "vendored_libraries": "QPTongdunSDK/libFMDeviceManager_without_IDFA.a"
 }
